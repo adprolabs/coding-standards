@@ -1,4 +1,4 @@
-AdPro Labs - Coding Style Guide
+AdPro Labs - PHP Coding Style Guide
 ==================
 
 This guide extends and expands on [PSR-1], the basic coding standard.
